@@ -5,10 +5,6 @@ Here I publish some of my Projects that I have written in python which I would l
 I am self-taught and am looking for your opinion .
 Please feel free to write to me to adhulrajkr@gmail.com
 
-Thank You
-
-
-Come again 
 
 <!---
 Adhulraj/Adhulraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
