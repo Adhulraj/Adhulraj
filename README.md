@@ -1,6 +1,6 @@
 Welcome to my GitHub Profile.
 I am a beginner in computer programming and am currently learning Ui Engineering.
-Please feel free to write to me to adhulrajkr@gmail.com
+You can Contact me through Gmail : adhulrajkr@gmail.com
 
 
 <!---
